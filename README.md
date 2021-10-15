@@ -1,7 +1,5 @@
 # El vasito #
 
-ICPC Team Notebook. Team "UNC - Gracias Demetrio".
+NCPC Team Notebook. Team "VitaminC++".
 
-## Compile
-``pdflatex vasito.tex``
 
